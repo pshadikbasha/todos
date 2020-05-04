@@ -1,0 +1,14 @@
+export const GET_TODOS = 'GET_TODOS';
+export const ADD_TODO = 'ADD_TODO';
+export const DELETE_TODO = 'DELETE_TODO';
+export const SET_CURRENT = 'SET_CURRENT';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const UPDATE_TODO = 'UPDATE_TODO';
+export const CLEAR_TODOS = 'CLEAR_TODOS';
+export const SET_LOADING = 'SET_LOADING';
+export const TODOS_ERROR = 'TODOS_ERROR';
+export const SEARCH_TODOS = 'SEARCH_TODOS';
+export const GET_USERS = 'GET_USERS';
+export const ADD_USER = 'ADD_USER';
+export const DELETE_USER = 'DELETE_USER';
+export const USERS_ERROR = 'USERS_ERROR';
